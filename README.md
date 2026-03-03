@@ -17,7 +17,15 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-i am btech(hons.) cse student 
+I’m a Computer Science Engineering student passionate about solving real-world problems through technology and building impactful solutions that contribute to India’s growth in the global tech ecosystem.
+
+My curiosity drives me to explore emerging technologies such as Artificial Intelligence, Generative AI, Blockchain, Ethical Hacking (White-Hat), Cloud Computing, Edge AI, and Human-AI Collaboration — the innovations shaping the world toward 2030 and beyond.
+
+I believe in deep learning and mastery. Once I commit to something I’m passionate about, I pursue it with focus and consistency until I truly understand and build with it. This mindset keeps me driven, disciplined, and future-oriented.
+
+I envision India becoming not just a technology leader, but a global innovation powerhouse — leading in breakthrough research, unicorn startups, and digital transformation. Every day, I work toward this vision of a stronger, smarter, and self-reliant India.
+
+My goal is to contribute to this transformation by building ethical, scalable, and powerful software solutions that create real impact and uplift lives across the nation.i am btech(hons.) cse student 
 
 
 ## 🌐 Socials:
