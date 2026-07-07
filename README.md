@@ -40,9 +40,7 @@ My goal is to contribute to this transformation by building ethical, scalable, a
 ![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=priya-sharma-cs&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=priya-sharma-cs&theme=dark&hide_border=false&layout=compact)
-![](https://visitcount.itsvg.in/api?id=priya-sharma-cs &icon=0&color=0)
+<--# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=priya-sharma-cs &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=priya-sharma-cs &theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=priya-sharma-cs &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) --- [![](https://visitcount.itsvg.in/api?id=priya-sharma-cs &icon=0&color=0)]
+(https://visitcount.itsvg.in)-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
