@@ -41,9 +41,9 @@ My goal is to contribute to this transformation by building ethical, scalable, a
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=priya-sharma-cs &theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=priya-sharma-cs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=priya-sharma-cs&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priya-sharma-cs &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=priya-sharma-cs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://visitcount.itsvg.in/api?id=priya-sharma-cs &icon=0&color=0)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
